@@ -75,9 +75,9 @@ HISTORIAHUBButton.TextScaled = true
 HISTORIAHUBButton.TextSize = 14.000
 HISTORIAHUBButton.TextWrapped = true
 HISTORIAHUBButton.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet(('loadstring(game:HttpGet("https://raw.githubusercontent.com/Historia00012/HISTORIAHUB/main/BSS%20FREE"))()
-		'),true))()
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/NoobHackel/Bee-Swarm-Simulator-Hub/main/HISTORIA-HUB'),true))()
 end)
+
 
 Shadow.Name = "Shadow"
 Shadow.Parent = HISTORIAHUBButton
